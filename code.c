@@ -1,7 +1,11 @@
 include<unistd.h>
 int main(void)
 {
- printf("aaa\n");
+ 
+
+	printf("1aa");
+	  
+	printf("2aa");
  return 0;
 
 
